@@ -324,7 +324,9 @@ footer ul li h6{
 .ver_ultimas_index h6{
 
 
-
+h5{
+	opacity: .2;
+}
  font-family: 'Quicksand', sans-serif;
 font-size: 1,5em;
 
@@ -715,6 +717,8 @@ padding-right: 4%;
 .slider_banner .flecha-banner:hover {
 	color: rgba(0,0,0,.5);
 }
+
+
 
 .slider_banner .flecha-banner.anterior {left: 20px;}
 .slider_banner .flecha-banner.siguiente {right: 20px;}
