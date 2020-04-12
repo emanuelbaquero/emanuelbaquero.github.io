@@ -45,7 +45,25 @@ main h6{
 	
 }
 
+.github
+{
 
+	text-align: center;
+	
+}
+
+
+.github img
+{
+	width: 5%; 
+
+
+}
+
+.logo_pdf img
+{
+	width: 30%;
+}
 
 
 h6{
@@ -658,6 +676,8 @@ padding-right: 4%;
 	border-radius: 5px;
 	overflow: hidden;
 	z-index: 1000;
+	opacity: .9;
+	
 }
 
 /* --------------------------------------- */
@@ -717,7 +737,6 @@ padding-right: 4%;
 .slider_info .informacion {
 	width: 100%;
 	font-family: 'Thasadith', sans-serif;
-
 }
 
 .slider_info .informacion article {
@@ -805,8 +824,7 @@ h1  {
 	position: relative;
 	top:1px;
 	margin-right: 10px;
-	width: 15px;
-	height: 15px;
+	width: 3%
 }
 
 .slider_info .informacion .texto {
