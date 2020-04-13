@@ -122,6 +122,18 @@ footer ul li h6{
 	
 }
 
+.tarjeta:hover {
+	margin:40px 0;
+	width: 100%;
+	background: #fff;
+	border-radius: 4px;
+	overflow: hidden;
+	z-index: 1000;
+	opacity: 1;
+	
+}
+
+
 /* --------------------------------------- */
 /* ----- Slider Banner */
 /* --------------------------------------- */
@@ -298,7 +310,7 @@ h1  {
 .tarjeta {
 	margin:20px 0;
 	width: 100%;
-	background: #fff;
+	background: white;
 	border-radius: 2px;
 	overflow: hidden;
 	z-index: 1000;
