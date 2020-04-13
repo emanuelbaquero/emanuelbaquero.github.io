@@ -26,9 +26,18 @@ body {
 .github img
 {
 	width: 5%; 
-
+	opacity: .2;
 
 }
+
+
+.github img:hover
+{
+	width: 5%; 
+	opacity: 1;
+
+}
+
 
 .logo_pdf img
 {
@@ -290,11 +299,18 @@ h1  {
 
 .github img
 {
+
 	width: 15%; 
-
-
+	opacity: .9;
 }
 
+
+.github img:hover
+{
+	width: 15%; 
+	opacity: 1;
+
+}
 
 .contenedor {
 	width: 95%;
