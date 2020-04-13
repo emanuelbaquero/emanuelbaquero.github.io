@@ -23,7 +23,6 @@ body {
 	
 }
 
-
 .github img
 {
 	width: 5%; 
@@ -297,7 +296,6 @@ h1  {
 }
 
 
-
 .contenedor {
 	width: 95%;
 	max-width: 800px;
@@ -322,19 +320,20 @@ h1  {
 	position: relative;
 	top:1px;
 	margin-right: 13px;
-	width: 3%
+	width: 7%
 }
 
 .slider_info .informacion .texto {
 	color: #55acee;
-	font-size: 13px;
-	line-height: 20px;
+	font-size: 11px;
+	line-height: 14px;
+	padding-top: 1em;
 }
 
 .slider_info .informacion .subtitulo {
 	color: #444444;
-	font-size: 13px;
-	line-height: 20px;
+	font-size: 11px;
+	line-height: 14px;
 	margin-bottom: 10px;
 }
 }
