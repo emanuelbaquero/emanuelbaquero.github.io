@@ -15,6 +15,80 @@ body {
 	font-family:'Open Sans',Sans-serif, Arial, Helvetica;*/
 }
 
+.curso_plsql{
+	color:rgba(120,120,120);
+	padding: 2%;
+}
+.curso_git{
+	color:rgba(120,120,120);
+	padding: 2%;
+}
+.curso_linux{
+	color:rgba(120,120,120);
+	padding: 2%;
+}
+.curso_docker{
+	color:rgba(120,120,120);
+	padding: 2%;
+}
+.curso_spark{
+	color:rgba(120,120,120);
+	padding: 2%;
+}
+.curso_hadoop{
+	color:rgba(120,120,120);
+	padding: 2%;
+}
+.curso_sparkhadoop{
+	color:rgba(120,120,120);
+	padding: 2%;
+}
+
+
+.curso_plsql:hover{
+	color: #55acee;
+	padding: 2%;
+}
+.curso_git:hover{
+	color: #55acee;
+	padding: 2%;
+}
+.curso_linux:hover{
+	color: #55acee;
+	padding: 2%;
+}
+.curso_docker:hover{
+	color: #55acee;
+	padding: 2%;
+}
+.curso_spark:hover{
+	color: #55acee;
+	padding: 2%;
+}
+.curso_hadoop:hover{
+	color: #55acee;
+	padding: 2%;
+}
+.curso_sparkhadoop:hover{
+	color: #55acee;
+	padding: 2%;
+}
+
+
+.logo_plsql img{
+	width: 5%;
+	border-radius: 45%;
+	padding-bottom: 5%;
+}
+
+
+
+
+.logo_plsql img{
+	width: 7%;
+	border-radius: 45%;
+}
+
 
 
 .modeloproperatti{
