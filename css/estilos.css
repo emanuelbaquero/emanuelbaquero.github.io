@@ -16,6 +16,23 @@ body {
 }
 
 
+
+.modeloproperatti{
+	
+	text-decoration:none; 
+	color:rgba(120,120,120);
+	padding-top:5%;
+	font-size: 1em;
+}
+
+.modeloproperatti:hover{
+	 
+	color:#6ed279;
+	font-size: 1.1em;
+
+}
+
+
 .cb-slideshow,
 .cb-slideshow:after { 
     position: fixed;
@@ -242,13 +259,14 @@ body {
 {
 	width: 5%; 
 	opacity: .2;
+	padding:.5%;
 
 }
 
 
 .github img:hover
 {
-	width: 5%; 
+	padding:.1%;
 	opacity: 1;
 
 }
