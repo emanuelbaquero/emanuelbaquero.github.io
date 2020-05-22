@@ -8,7 +8,7 @@
 
 
 body {
-	background: url('../img/bg.png');
+	background: url('../img/0.jpg');
 	background-size: cover;
 	background-attachment: fixed;*/
 	font-family: 'Abel', sans-serif;
@@ -16,31 +16,31 @@ body {
 }
 
 .curso_plsql{
-	color:rgba(120,120,120);
+	color:#089898;
 	padding: 2%;
 }
 .curso_git{
-	color:rgba(120,120,120);
+	color:#089898;
 	padding: 2%;
 }
 .curso_linux{
-	color:rgba(120,120,120);
+	color:#089898;
 	padding: 2%;
 }
 .curso_docker{
-	color:rgba(120,120,120);
+	color:#089898;
 	padding: 2%;
 }
 .curso_spark{
-	color:rgba(120,120,120);
+	color:#089898;
 	padding: 2%;
 }
 .curso_hadoop{
-	color:rgba(120,120,120);
+	color:#089898;
 	padding: 2%;
 }
 .curso_sparkhadoop{
-	color:rgba(120,120,120);
+	color:#089898;
 	padding: 2%;
 }
 
@@ -348,9 +348,16 @@ body {
 
 .logo_pdf img
 {
-	width: 30%;
+	width: 10%;
+	padding:1%;
 }
 
+
+.logo_pdf img:hover
+{
+	padding:.1%;
+
+}
 
 
 
@@ -420,6 +427,7 @@ footer ul li h6{
 .contenedor {
 	width: 90%;
 	max-width: 700px;
+	opacity: .9;
 	margin: auto;
 	height: 100%;
 	display: flex;
@@ -429,7 +437,7 @@ footer ul li h6{
 .tarjeta {
 	margin:40px 0;
 	width: 100%;
-	background: #fff;
+	background: #121212;
 	border-radius: 5px;
 	overflow: hidden;
 	z-index: 1000;
@@ -441,7 +449,7 @@ footer ul li h6{
 .tarjeta:hover {
 	margin:40px 0;
 	width: 100%;
-	background: #fff;
+	background: #121212;
 	border-radius: 4px;
 	overflow: hidden;
 	z-index: 1000;
@@ -502,7 +510,7 @@ footer ul li h6{
 }
 
 .slider_info .informacion article .slide{
-	background: #fff;
+	background: #121212;
 	width: 100%;
 	left: 100%;
 	padding: 20px 80px;
@@ -517,7 +525,7 @@ h1  {
 	letter-spacing: .2em;
 	
 	left:0;
-	color: black;
+	color: #55acee;
 	
 	
 	font-family: 'Thasadith', sans-serif;
@@ -563,7 +571,7 @@ h1  {
 }
 
 .slider_info .informacion .pais {
-	color: #8d8d8d;
+	color: #16807B;
 	font-family: 14px;
 	line-height: 14px;
 }
@@ -588,7 +596,8 @@ h1  {
 }
 
 .slider_info .informacion .subtitulo {
-	color: #444444;
+	color: #089898;
+
 	font-size: 18px;
 	line-height: 24px;
 	margin-bottom: 16px;
@@ -632,7 +641,7 @@ h1  {
 .tarjeta {
 	margin:20px 0;
 	width: 100%;
-	background: white;
+	background: black;
 	border-radius: 2px;
 	overflow: hidden;
 	z-index: 1000;
@@ -656,7 +665,7 @@ h1  {
 
 
 .slider_info .informacion .subtitulo {
-	color: #444444;
+	color: white;
 	font-size: 11px;
 	line-height: 14px;
 	margin-bottom: 10px;
