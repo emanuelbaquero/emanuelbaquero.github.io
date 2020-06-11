@@ -15,6 +15,8 @@ body {
 	font-family:'Open Sans',Sans-serif, Arial, Helvetica;*/
 }
 
+
+
 .curso_plsql{
 	color:#089898;
 	padding: 2%;
@@ -75,19 +77,21 @@ body {
 }
 
 
-.logo_plsql img{
+.logo_udemy img{
 	width: 5%;
 	border-radius: 45%;
-	padding-bottom: 5%;
+	padding-bottom: .5%;
+	margin-top: .5em;
+}
+
+.logo_udemy img:hover{
+	width: 5%;
+	border-radius: 5%;
+	padding-bottom: .5%;
+	margin-top: .5em;
 }
 
 
-
-
-.logo_plsql img{
-	width: 7%;
-	border-radius: 45%;
-}
 
 
 
@@ -600,7 +604,7 @@ h1  {
 
 	font-size: 18px;
 	line-height: 24px;
-	margin-bottom: 16px;
+	margin-bottom: .5em;
 }
 
 
@@ -609,10 +613,17 @@ h1  {
 
 .logo_pdf img
 {
-	width: 60%;
+	width: 30%;
 }
 
 
+
+.logo_udemy img{
+	width: 10%;
+	border-radius: 45%;
+	padding-bottom: .5%;
+	margin-top: .5em;
+}
 
 .github img
 {
