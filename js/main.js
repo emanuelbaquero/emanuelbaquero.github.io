@@ -178,10 +178,10 @@ $(document).ready(function(){
 // Boton Siguiente
 
 	$('#info-next').on('click', function(e){
-		e.preventDefault();
 
 		if (info.posicion < info.numeroSlides){
 			// Nos aseguramos de que las demas slides empiecen desde la derecha.
+
 			info.padre.children().not('.active').css({
 				'left': '100%'
 			});
@@ -216,7 +216,9 @@ $(document).ready(function(){
 			// Eliminamos la clase active y se la ponemos al primer elemento
 			// Despues lo animamos.
 			$('#info .active').removeClass('active');
+			
 			info.padre.children().first().addClass('active').animate({
+				
 				'left': 0
 			});
 
@@ -226,14 +228,13 @@ $(document).ready(function(){
 
 			// Reseteamos la posicion a 1
 			info.posicion = 1;
+			
 		}
-
 		altoInfo();
 	});
 
 	// Boton Anterior
 		$('#info-prev').on('click', function(e){
-			e.preventDefault();
 
 			if (info.posicion > 1){
 
