@@ -46,6 +46,12 @@ body {
 	padding: 2%;
 }
 
+.curso_dask{
+	color:#089898;
+	padding: 2%;
+}
+
+
 
 .curso_plsql:hover{
 	color: #55acee;
@@ -75,6 +81,12 @@ body {
 	color: #55acee;
 	padding: 2%;
 }
+
+.curso_dask:hover{
+	color: #55acee;
+	padding: 2%;
+}
+
 
 
 .logo_udemy img{
