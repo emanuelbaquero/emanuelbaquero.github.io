@@ -17,75 +17,114 @@ body {
 
 
 
+.curso_dataScience{
+	font-size: 1.2em;
+	color:#089898;
+	padding: 1%;
+}
+
 .curso_plsql{
 	color:#089898;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_git{
 	color:#089898;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_linux{
 	color:#089898;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_docker{
 	color:#089898;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_spark{
 	color:#089898;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_hadoop{
 	color:#089898;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_sparkhadoop{
 	color:#089898;
-	padding: 2%;
+	padding: 1%;
 }
 
 .curso_dask{
 	color:#089898;
-	padding: 2%;
+	padding: 1%;
+}
+
+.curso_pyspark{
+	color:#089898;
+	padding: 1%;
 }
 
 
+
+.curso_dataScience:hover{
+	color: #55acee;
+	padding: 1%;
+}
 
 .curso_plsql:hover{
 	color: #55acee;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_git:hover{
 	color: #55acee;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_linux:hover{
 	color: #55acee;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_docker:hover{
 	color: #55acee;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_spark:hover{
 	color: #55acee;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_hadoop:hover{
 	color: #55acee;
-	padding: 2%;
+	padding: 1%;
 }
 .curso_sparkhadoop:hover{
 	color: #55acee;
-	padding: 2%;
+	padding: 1%;
 }
 
 .curso_dask:hover{
 	color: #55acee;
-	padding: 2%;
+	padding: 1%;
 }
+
+.curso_pyspark:hover{
+	color: #55acee;
+	padding: 1%;
+}
+
+
+
+.logo_dh img{
+	width: 5%;
+	border-radius: 45%;
+	padding-bottom: .5%;
+	margin-top: .5em;
+}
+
+.logo_dh img:hover{
+	width: 5%;
+	border-radius: 5%;
+	padding-bottom: .5%;
+	margin-top: .5em;
+}
+
+
 
 
 
@@ -338,18 +377,27 @@ body {
 }
 
 
+
+.logos
+{
+	margin-left: 45%;
+
+}
+
+
 .github
 {
-
-	text-align: center;
+	width: 45%;
 	
 }
 
 .github img
 {
-	width: 5%; 
+	width: 15%; 
 	opacity: .2;
-	padding:.5%;
+	padding:.9%;
+	float:left;
+	text-align: center;
 
 }
 
@@ -358,9 +406,62 @@ body {
 {
 	padding:.1%;
 	opacity: 1;
+	
 
 }
 
+
+.docker
+{
+	width: 45%;	
+
+}
+
+
+.docker img
+{
+	width: 15%; 
+	opacity: .2;
+	padding:2.5%;
+	border-radius: 65%;
+	float:left;
+	text-align: center;
+}
+
+
+.docker img:hover
+{
+	padding:1.9%;
+	opacity: 1;
+	border-radius: 65%;
+}
+
+
+
+
+.linkedin
+{
+	width: 45%;	
+
+}
+
+.linkedin img
+{
+	width: 15%; 
+	opacity: .2;
+	padding:2.5%;
+	border-radius: 65%;
+	float:left;
+	text-align: center;
+}
+
+
+.linkedin img:hover
+{
+	padding:1.9%;
+	opacity: 1;
+	border-radius: 65%;
+}
 
 .logo_pdf img
 {
