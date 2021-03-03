@@ -18,7 +18,7 @@ body {
 
 
 .curso_dataScience{
-	font-size: 1.2em;
+	font-size: 1.8em;
 	color:#089898;
 	padding: 1%;
 }
@@ -381,6 +381,7 @@ body {
 .logos
 {
 	margin-left: 45%;
+	margin-bottom: 7%;
 
 }
 
@@ -393,7 +394,7 @@ body {
 
 .github img
 {
-	width: 15%; 
+	width: 20%; 
 	opacity: .2;
 	padding:.9%;
 	float:left;
@@ -420,7 +421,7 @@ body {
 
 .docker img
 {
-	width: 15%; 
+	width: 20%; 
 	opacity: .2;
 	padding:2.5%;
 	border-radius: 65%;
@@ -447,7 +448,7 @@ body {
 
 .linkedin img
 {
-	width: 15%; 
+	width: 20%; 
 	opacity: .2;
 	padding:2.5%;
 	border-radius: 65%;
